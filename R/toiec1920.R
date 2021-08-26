@@ -57,4 +57,4 @@ tidy <- input %>%
 # Muốn xem thêm về phần này thì đọc ở "translation.R" trong cùng project này.
 
 write.csv(tidy, here("output", "toeic1920.csv"))
-setNames( 1:3, c("foo", "bar", "baz") )
+
