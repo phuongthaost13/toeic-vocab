@@ -1,0 +1,55 @@
+---
+title: "chưa xong"
+author: "Phạm Phương Thảo"
+date: "8/23/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+https://community.rstudio.com/t/how-to-write-csv-in-r-where-data-is-cleaned-with-utf-8-characters/22836
+
+https://stackoverflow.com/questions/3302356/how-to-split-a-data-frame
+
+https://www.r-bloggers.com/2020/08/how-to-subset-rows-from-a-data-frame-in-r/
+
+https://stackoverflow.com/questions/12328056/how-do-i-delete-rows-in-a-data-frame
+
+https://stackoverflow.com/questions/7398998/re-arrange-multiple-columns-in-a-data-set-into-one-column-using-r
+
+https://www.datasciencemadesimple.com/stack-and-unstack-function-in-r/
+
+https://stackoverflow.com/questions/2545228/convert-a-dataframe-to-a-vector-by-rows
+
+https://www.dummies.com/programming/r/how-to-create-character-vectors-for-text-data-in-r/
+
+https://cran.r-project.org/web/packages/utf8/utf8.pdf
+
+https://cran.r-project.org/web/packages/brio/brio.pdf
+
+http://blog.rolffredheim.com/2013/01/r-and-foreign-characters.html
+
+https://www.rdocumentation.org/packages/translateR/versions/1.0/topics/translate
+
+https://stackoverflow.com/questions/38400582/r-google-translate-api-packages-translate-translater
+
+https://rpubs.com/Yach/google-translation-R
+
+https://cran.r-project.org/web/packages/gargle/vignettes/get-api-credentials.html
+
+https://dh-r.lincolnmullen.com/installing-r-and-packages.html
+
+https://stackoverflow.com/questions/18153504/removing-non-english-text-from-corpus-in-r-using-tm
+
+https://www.r-bloggers.com/2014/05/icu-unicode-text-transforms-in-the-r-package-stringi/
+
+https://stringi.gagolewski.com/rapi/about_search_charclass.html
+
+https://stackoverflow.com/questions/37579692/unicode-range-for-vietnamese
+
+https://stackoverflow.com/questions/22876746/how-to-read-data-in-utf-8-format-in-r
+
+https://stat.ethz.ch/R-manual/R-devel/library/base/html/Encoding.html
+
